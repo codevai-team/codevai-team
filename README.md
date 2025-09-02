@@ -62,13 +62,13 @@ We’re constantly exploring new technologies, frameworks, and creative solution
 
 ## 📈 Stats
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=codevai-team&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=codevai-team&show_icons=true&hide_border=true" alt="Codevai Team's GitHub Stats">
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=codevai-team.codevai-team" alt="visitors">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codevai-team&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codevai-team&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codevai-team&theme=tokyonight" alt="Streak Stats"/>
+</p>
 
 ---
 
