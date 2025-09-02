@@ -75,7 +75,7 @@ We’re constantly exploring new technologies, frameworks, and creative solution
 ## 🔗 Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/codevai-team)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@codevai_team)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/codevai_team)
 [![Website](https://img.shields.io/badge/Website-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://your-website.com)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:team-codevai@gmail.com)
