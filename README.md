@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://your-link-to-banner.png](https://i.ibb.co/Fk7Wcn2Z/codev-banner.png)" alt="Codevai Team Banner" />
+  <img src="https://i.ibb.co/Fk7Wcn2Z/codev-banner.png" alt="Codevai Team Banner" />
 </p>
 
 <h1 align="center">👋 Welcome to Codevai Team</h1>
